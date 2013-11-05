@@ -13,7 +13,7 @@ A sample Laravel Application which demonstrates how to integrate jQuery AJAX cal
 
 Have a bug or want to add something? Please create an issue or a pull request right here.
 
-[https://github.com/mikeerickson/vagrant-laravel](https://github.com/mikeerickson/vagrant-laravel)
+[https://github.com/mikeerickson/laravel-ajax](https://github.com/mikeerickson/laravel-ajax)
 
 ### Authors
 
