@@ -1,0 +1,23 @@
+{
+	"name": "darsain/laravel-console",
+	"description": "Browser console for Laravel Framework.",
+	"keywords": [
+		"laravel",
+		"browser",
+		"console"
+	],
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0",
+		"illuminate/support": "4.0.x"
+	},
+	"autoload": {
+		"classmap": [
+			"src/controllers"
+		],
+		"psr-0": {
+			"Darsain\\Console\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
